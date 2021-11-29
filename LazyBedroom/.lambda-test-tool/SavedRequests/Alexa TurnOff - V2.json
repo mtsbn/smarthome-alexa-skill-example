@@ -1,0 +1,32 @@
+{
+    "Directive": {
+        "Header": {
+            "Namespace": "Alexa.PowerController",
+            "Name": "TurnOff",
+            "MessageId": "d7689292-d3c9-4ca5-9101-a2831e6a183c",
+            "PayloadVersion": "3",
+            "CorrelationToken": "AAAAAAAAAAD9NNZbXMCS8N57vNMeXoNi/AEAAAAAAAA1p7GMy87HPNhXFae3KnJsV20NbdMx/uLUx7C9nMuBYAM9xKc4xAZ/vgHUZW3UE8XYHR5n0mY2X2uUrRF+a94BWL4ohgm300CpK+2B5Ms60q/AQtmcvY7lUKJzl5eaAdLtCiEYDdOJWUqoll2adBz6ogNqYsF6HT17bYLtGfWq68sZl/XhfR6QnrlGkzogdMUEAL99wc5WrOgh6hqypSMKeyA2OLseBeptF1InwU1ZGVIrhTNm5M2y5ValXwCAfzeQi11DDe9yGZP1dEEfIqIlX+nOUtDILHyupqMItqJVxZVC/GcbAfgf8c69AjSoidEcpeXSV5GfOGpEjRV2QYf9Hpe6tG8MvSqFi6WQU34+VT3CNgTsIbfQnucNFMOYYVidfOYjdkm0PDyMHt9YQaf98nuDq2psWRUIoZUUxGQkvE2ElCvfZfYafnhgFCKRNNH9Mm8/kndcCvmZ82b6+sJESqHFTSIIyg+gn7sq1YVqPV+xZ6EWY0yv3PpVJVTN7SuVgqnw783MBuroJnVuQWu9AheU08NlHW8AeTe6A5R6W4LPhXbFBApYysgS0WLyNBm7Lj5WoQsHJIWvf9fH/RPir0gG3FPb9L8t1a+EdPhzuh2Lhng5U85V750W6l3XP6Os6bPHOnhHwmNmCpdCg9+m2evv9t5XgaACYIn6"
+        },
+        "Payload": {
+            "Grant": null,
+            "Grantee": null,
+            "Scope": null,
+            "Endpoints": null
+        },
+        "Endpoint": {
+            "EndpointId": "LS:LAMP:1:1",
+            "ManufacturerName": null,
+            "Description": null,
+            "FriendlyName": null,
+            "AdditionalAttributes": null,
+            "DisplayCategories": null,
+            "Cookie": {},
+            "Capabilities": null,
+            "Connections": null,
+            "Scope": {
+                "Type": "BearerToken",
+                "Token": "Atza|IwEBIAIfNZCrswxFWd_4PAM_Lrf1iKTuobP3-iGVWhtUuxcLS_CcvOn6iMb28Ob6V5ikXjSdOzUryiI4mOar3FBqJGJ4i4uIPQSt8FgXl7RJLXkvA8LSF00PTWO4_dh8ax0BcSGeX0XVj7-mn6JK5beZO-GXYnBeax7KN80sIgXRU_N-m7t6HRfL6wMjWVRpbpuUDUB6h1B7VoLVq-Omguv2y5D3rT_nrKN5FoLk10MMNrfocDi8PDcn6MiaqwDq-tquM3eA24_JTj7gssHMeUwvbkpsAjWoKBo7bgluFUnVr4N2NKRyqsrQjbJUY9c3k0WONtUG59GOaA7vRj97LwI8tK9nUB2uJMreJuThKw0SDPRqZPM5l2fDXJxUvu_R8ZSjN2yYn4FyNatfr3OZGpuGBd-1-Meh3g3CQnsMCt4IrvjiLA"
+            }
+        }
+    }
+}
